@@ -125,8 +125,6 @@ Live App URL: https://medtimer.streamlit.app/
 
 ## How to Use
 
-## How to Use
-
 ### Guided Setup Mode
 
 Step 1: Enter your name
@@ -241,8 +239,6 @@ Each condition includes country-specific pre-loaded medications.
 
 ## Testing
 
-## Testing
-
 ### Test Scenarios
 
 1. User Flow Testing
@@ -330,18 +326,14 @@ Each condition includes country-specific pre-loaded medications.
 - File handling for backup/restore
 
 ## Screenshots
-
-### Main Dashboard
-[Add screenshot of dashboard]
-
-### Guided Setup
-[Add screenshot of setup process]
-
-### Quick Add Mode
-[Add screenshot of quick add interface]
-
-### Theme Options
-[Add screenshot showing different themes]
+<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/83a67f9b-6e9d-4211-96f4-4e86ed9d5b2b" />
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/096aa08c-d286-44b4-926f-3d5d396dda18" />
+<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/aacf8a1b-1d66-4fe3-b895-6cfbe139566e" />
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/28060836-ef48-4e8d-a7b6-7284bf828581" />
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/da7addf6-5144-41d3-a545-7ab764d13dc6" />
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/ec738e17-0a9a-4fb1-8e20-0cf8c691f22f" />
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/9953fe94-2562-494b-a0c2-cfed1b4795b2" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/485ec637-93c6-4294-abc0-97ce0f0fcd7b" />
 
 ### Completed Stages
 
