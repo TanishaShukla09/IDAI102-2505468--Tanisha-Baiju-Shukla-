@@ -1,5 +1,4 @@
 # IDAI102-2505468--Tanisha-Baiju-Shukla-
-# -IDAI102-2505468--Tanisha.Shukla
 # MedTimer - Daily Medicine Companion
 
 ## Project Overview
