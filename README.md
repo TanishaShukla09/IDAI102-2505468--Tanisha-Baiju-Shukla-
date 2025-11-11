@@ -89,23 +89,17 @@ MedTimer helps users:
 
 ### Local Installation Steps
 
-1. Clone the repository
-```bash
-git clone https://github.com/YourUsername/IDAI102_StudentID-StudentName.git
-cd IDAI102_StudentID-StudentName
-```
-
-2. Install required packages
+1. Install required packages
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the application
+2. Run the application
 ```bash
 streamlit run app.py
 ```
 
-4. Open browser at http://localhost:8501
+3. Open browser at http://localhost:8501
 
 ### Requirements File
 
@@ -127,7 +121,7 @@ pandas
 6. Select repository
 7. Deploy
 
-Live App URL: [Add your deployed app link here]
+Live App URL: https://medtimer.streamlit.app/
 
 ## How to Use
 
